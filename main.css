@@ -1,0 +1,21 @@
+body
+{
+    text-align: center;
+}
+h1
+{
+    color: rgb(7, 168, 146);
+    font-family: cursive;
+}
+.odd_buttons
+{
+    height:150px; width: 60px;
+    background-color:rgb(7, 168, 146);
+    border-radius: 6px;
+}
+.even_buttons
+{
+    height:150px; width: 60px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+}
